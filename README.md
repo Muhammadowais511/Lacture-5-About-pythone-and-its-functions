@@ -1,6 +1,6 @@
 ## Description
 This repository contains my Lecture 5 Python practice project, created in Google Colab. It explores Python functions, parameters, return values, variable scope, and practical coding exercises for writing clean, reusable, and efficient code.
-
+https://github.com/Muhammadowais511/Lacture-5-About-pythone-and-its-functions/blob/main/Copy_of_Python_Project_for_Portfolio.ipynb
 ## README
 
 # Python Functions Practice – Lecture 5
