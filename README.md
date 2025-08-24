@@ -3,7 +3,7 @@ This repository contains my Lecture 5 Python practice project, created in Google
 https://github.com/Muhammadowais511/Lacture-5-About-pythone-and-its-functions/blob/main/Copy_of_Python_Project_for_Portfolio.ipynb
 ## README
 
-# Python Functions Practice – Lecture 5
+# Python Functions Practice – Lecture 5 & 6
 
 This repository contains my work from Lecture 5, focusing on **Python functions**.  
 The project was developed in **Google Colab** and includes:
